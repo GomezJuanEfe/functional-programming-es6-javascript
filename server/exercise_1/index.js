@@ -17,7 +17,3 @@ console.log('Filtered', filteredArr);
 
 const sumArr = arr.reduce((prev, curr) => prev + curr);
 console.log('Reduce', sumArr);
-
-function sum() {
-  
-}
